@@ -1,6 +1,6 @@
 cask "copyisto-trimmer" do
-  version "0.1.0"
-  sha256 "6a280831bff8d945911d3793e55ca7147aaed003e379ed43b32e9edcc7c829ec"
+  version "0.2.0"
+  sha256 "dc77ba02fb482e8ca10578ee79005d26aa794d5dfac62f61b0102eb993b3eda0"
 
   url "https://github.com/copyisto/copyisto-trimmer/releases/download/v#{version}/Copyisto-Trimmer.zip"
   name "Copyisto Trimmer"
